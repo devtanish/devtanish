@@ -8,7 +8,7 @@ Web Developer and competitive coder
 * 🖥️  See my portfolio at [See my portfolio at](http://poatfolio.com)
 * ✉️  You can contact me at hellotanish2005@gmail.com
 * 🚀  I'm currently working on [Personal Projects](https://github.com/profTanish?tab=repositories)
-* 🧠  I'm learning I'm learning a new framework Next.js
+* 🧠  I'm learning I'm learning a new framework [Next.js](https://nextjs.org/)
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
 * ⚡  I'm a part-time super hero
 
