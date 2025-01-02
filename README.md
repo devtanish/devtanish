@@ -7,7 +7,7 @@ Web Developer and competitive coder
 * 🌍  I'm based in I'm based in Madhya Pradesh, India
 * 🖥️  See my portfolio at [See my portfolio at](http://poatfolio.com)
 * ✉️  You can contact me at hellotanish2005@gmail.com
-* 🚀  I'm currently working on [Personal Projects](http://github.com/profTanish)
+* 🚀  I'm currently working on [Personal Projects](https://github.com/profTanish?tab=repositories)
 * 🧠  I'm learning I'm learning a new framework Next.js
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
 * ⚡  I'm a part-time super hero
