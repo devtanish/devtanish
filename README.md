@@ -4,7 +4,7 @@ Hi 👋 My name is Tanish
 Web Developer and competitive coder
 -----------------------------------
 
-* 🌍  I'm based in I'm based in Madhya Pradesh, India
+* 🌍  I'm based in Madhya Pradesh, India
 * 🖥️  See my portfolio at [See my portfolio at](http://poatfolio.com)
 * ✉️  You can contact me at hellotanish2005@gmail.com
 * 🚀  I'm currently working on [Personal Projects](https://github.com/profTanish?tab=repositories)
