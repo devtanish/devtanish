@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate web developer with a keen interest in competitive coding. Currently, I'm working on personal projects and diving deep into Next.js to enhance my development skills. I'm always open to collaborating on interesting projects and love tackling new challenges. Fun fact: I'm a part-time superhero!
+I'm a passionate web developer with a keen interest in competitive coding. Currently, I'm working on personal projects, Understanding Web3 technology and diving deep into Next.js to enhance my development skills. I'm always open to collaborating on interesting projects and love tackling new challenges. Fun fact: I'm a part-time superhero!
 
 
 ## 🌐 Socials:
