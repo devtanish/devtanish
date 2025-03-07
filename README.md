@@ -35,3 +35,5 @@ I'm a passionate web developer with a keen interest in competitive coding. Curre
 ![](https://github-contributor-stats.vercel.app/api?username=profTanish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=profTanish&icon=2&color=12)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=profTanish&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
