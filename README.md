@@ -6,12 +6,9 @@ I'm on a mission to become a top-tier software developer, and I'm preparing acti
 
 > ⚠️ Due to NDA or personal reasons, some of my most exciting and advanced projects are **private**. Here's a brief overview:
 
-| Project Name       | Description                                                              | Stack Used                            | Status     |
+| Project Name       | Description                                                              | Live                           | Status     |
 |--------------------|---------------------------------------------------------------------------|----------------------------------------|------------|
-| **Second Brain**   | Personal note-taking system with auth & CRUD features                    | Next.js, Prisma, PostgreSQL, Tailwind | ✅ Completed |
-| **Omegil**         | Omegle-like video chat app with WebSockets and peer connections          | Node.js, WebSocket, React              | 🛠️ Frontend in Progress |
-| **Portfolio v2**   | Second version of my personal portfolio, focused on performance & design | Next.js, Tailwind, TypeScript         | ✅ Completed |
-| **DevDash**        | Developer dashboard for managing API keys, projects, and usage           | Appwrite, GraphQL, React               | 🔐 Private |
+| **CollaByDraw**   | real-time collaborative whiteboard tool Built with WebSockets,it ensures secure, private, and interactive collaboration online.| [Link](https://private-colla-by-draw-collabydraw.vercel.app/) | 🔐Private ✅Completed   |
 
-> 🧠 Want to learn more or collaborate on these? [Let's connect!](mailto:your-email@example.com)
+> 🧠 Want to learn more or collaborate on these? [Let's connect!](mailto:hellotanish2000@gmail.com)
 
