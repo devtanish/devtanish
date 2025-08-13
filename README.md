@@ -1,5 +1,5 @@
 I'm a 3rd-year BCA student deeply passionate about full-stack development, system design, and emerging technologies like Web 3.0. I'm continuously learning and building real-world projects to sharpen my skills and explore how technology can solve everyday problems.
-I work primarily with **React.js**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**. I'm also experienced with **Tailwind CSS**, **GraphQL**, **WebSockets**, **NextAuth**, **Supabase**, **Appwrite**, **Prisma** and more. Currently exploring **advanced DSA** and **Web3**.
+I work primarily with **React.js**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**. I'm also experienced with **Tailwind CSS**, **GraphQL**, **WebSockets**, **NextAuth**, **Supabase**, **Appwrite**, **Prisma** and more. Currently exploring **Cpp advanced DSA**, **Rust** and **Web3**.
 I'm on a mission to become a top-tier software developer, and I'm preparing actively for placements. Always open to feedback, collaboration, and cool ideas!
 
 ## 📂 My Private Projects
