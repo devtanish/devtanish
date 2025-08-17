@@ -9,7 +9,7 @@ I'm on a mission to become a top-tier software developer, and I'm preparing acti
 | Project Name       | Description                                                              | Live                           | Status     | Tech Used |
 |--------------------|---------------------------------------------------------------------------|----------------------------------------|------------|----------------|
 | **CollaByDraw**   | real-time collaborative whiteboard tool Built with WebSockets,it ensures secure, private, and interactive collaboration online.| [Link](https://private-colla-by-draw-collabydraw.vercel.app/) | 🔐Private ✅Completed   | Nextjs(Turborepo), WebSocket, Canvas_API, Oauth |
-| **AI-Interview** | AI-powered interview preparation that simulates real interview scenarios, provides instant feedback, and helps candidates improve their answers. | [Link](https://ai-interview-two-kappa.vercel.app/) | 🔐Private ✅Completed | React.js, OperRouter API, Tailwind CSS, Node.js, TypeScript, Clerk |
+| **AI-Interview** | AI-powered interview preparation that simulates real interview scenarios, provides instant feedback, and helps candidates improve their answers. | [Link](https://ai-interview-two-kappa.vercel.app/) | 🐳Docker ✅Completed | React.js, OperRouter API, Tailwind CSS, Node.js, TypeScript, Clerk |
 
 > 🧠 Want to learn more or collaborate on these? [Let's connect!](mailto:hellotanish2000@gmail.com)
 
